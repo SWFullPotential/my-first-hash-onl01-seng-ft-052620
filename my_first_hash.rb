@@ -2,7 +2,7 @@ def my_hash = {
   "first name" => "Samantha", 
   "last name" => "Wabi", 
   "height" => "5ft2in"
-}
+};
  
   
 end
